@@ -1,0 +1,362 @@
+info_begin
+format: 1
+mpd_version: 0.18.10
+fs_charset: UTF-8
+tag: Artist
+tag: Album
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+info_end
+directory: Johann Johannsson - Prisoners (2013) (OST) [FLAC]
+mtime: 1395045568
+begin: Johann Johannsson - Prisoners (2013) (OST) [FLAC]
+song_begin: 01 - The Lord's Prayer.flac
+Time: 152
+Artist: Jóhann Jóhannsson
+Title: The Lord's Prayer
+Album: Prisoners
+Date: 2013
+Track: 01
+Genre: Soundtrack
+Disc: 1
+mtime: 1384933419
+song_end
+song_begin: 02 - I Can't Find Them.flac
+Time: 250
+Artist: Jóhann Jóhannsson
+Title: I Can't Find Them
+Album: Prisoners
+Date: 2013
+Track: 02
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934392
+song_end
+song_begin: 03 - The Search Party.flac
+Time: 175
+Artist: Jóhann Jóhannsson
+Title: The Search Party
+Album: Prisoners
+Date: 2013
+Track: 03
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934319
+song_end
+song_begin: 04 - Surveillance Video.flac
+Time: 215
+Artist: Jóhann Jóhannsson
+Title: Surveillance Video
+Album: Prisoners
+Date: 2013
+Track: 04
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934276
+song_end
+song_begin: 05 - The Candlelight Vigil.flac
+Time: 311
+Artist: Jóhann Jóhannsson
+Title: The Candlelight Vigil
+Album: Prisoners
+Date: 2013
+Track: 05
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934410
+song_end
+song_begin: 06 - Escape.flac
+Time: 345
+Artist: Jóhann Jóhannsson
+Title: Escape
+Album: Prisoners
+Date: 2013
+Track: 06
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934410
+song_end
+song_begin: 07 - The Tall Man.flac
+Time: 168
+Artist: Jóhann Jóhannsson
+Title: The Tall Man
+Album: Prisoners
+Date: 2013
+Track: 07
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934277
+song_end
+song_begin: 08 - The Everyday Bible.flac
+Time: 144
+Artist: Jóhann Jóhannsson
+Title: The Everyday Bible
+Album: Prisoners
+Date: 2013
+Track: 08
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934210
+song_end
+song_begin: 09 - Following Keller.flac
+Time: 132
+Artist: Jóhann Jóhannsson
+Title: Following Keller
+Album: Prisoners
+Date: 2013
+Track: 09
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934206
+song_end
+song_begin: 10 - Through Falling Snow.flac
+Time: 165
+Artist: Jóhann Jóhannsson
+Title: Through Falling Snow
+Album: Prisoners
+Date: 2013
+Track: 10
+Genre: Soundtrack
+Disc: 1
+mtime: 1384933952
+song_end
+song_begin: 11 - The Keeper.flac
+Time: 170
+Artist: Jóhann Jóhannsson
+Title: The Keeper
+Album: Prisoners
+Date: 2013
+Track: 11
+Genre: Soundtrack
+Disc: 1
+mtime: 1384933985
+song_end
+song_begin: 12 - The Intruder.flac
+Time: 192
+Artist: Jóhann Jóhannsson
+Title: The Intruder
+Album: Prisoners
+Date: 2013
+Track: 12
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934065
+song_end
+song_begin: 13 - The Priest's Basement.flac
+Time: 169
+Artist: Jóhann Jóhannsson
+Title: The Priest's Basement
+Album: Prisoners
+Date: 2013
+Track: 13
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934289
+song_end
+song_begin: 14 - The Snakes.flac
+Time: 172
+Artist: Jóhann Jóhannsson
+Title: The Snakes
+Album: Prisoners
+Date: 2013
+Track: 14
+Genre: Soundtrack
+Disc: 1
+mtime: 1384931709
+song_end
+song_begin: 15 - The Trans Am.flac
+Time: 158
+Artist: Jóhann Jóhannsson
+Title: The Trans Am
+Album: Prisoners
+Date: 2013
+Track: 15
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934267
+song_end
+song_begin: 16 - Prisoners.flac
+Time: 420
+Artist: Jóhann Jóhannsson
+Title: Prisoners
+Album: Prisoners
+Date: 2013
+Track: 16
+Genre: Soundtrack
+Disc: 1
+mtime: 1384934365
+song_end
+playlist_begin: Johann Johannsson - Prisoners (2013).m3u
+mtime: 1384932316
+playlist_end
+playlist_begin: Prisoners.cue
+mtime: 1384932316
+playlist_end
+end: Johann Johannsson - Prisoners (2013) (OST) [FLAC]
+directory: War Of The Arrows (2011) (OST) [MP3]
+mtime: 1397156321
+begin: War Of The Arrows (2011) (OST) [MP3]
+song_begin: 01 - Hwar (Survive).mp3
+Time: 146
+Artist: OST
+Title: 活(활) (Hwar) [Survive]
+Album: War Of The Arrows OST
+Track: 1/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569328
+song_end
+song_begin: 02 - Sar (Kill).mp3
+Time: 156
+Artist: OST
+Title: 煞(살) (Sar) [Kill]
+Album: War Of The Arrows OST
+Track: 2/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569329
+song_end
+song_begin: 03 - Song (Send).mp3
+Time: 127
+Artist: OST
+Title: 送(송) (Song) [Send]
+Album: War Of The Arrows OST
+Track: 3/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569329
+song_end
+song_begin: 04 - Gyeog (Hunt).mp3
+Time: 104
+Artist: OST
+Title: 擊(격) (Gyeog) [Hunt]
+Album: War Of The Arrows OST
+Track: 4/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569330
+song_end
+song_begin: 05 - Jin (Thunder).mp3
+Time: 115
+Artist: OST
+Title: 震(진) (Jin) [Thunder]
+Album: War Of The Arrows OST
+Track: 5/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569331
+song_end
+song_begin: 06 - Tar (Pillage).mp3
+Time: 61
+Artist: OST
+Title: 奪(탈) (Tar) [Pillage]
+Album: War Of The Arrows OST
+Track: 6/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569331
+song_end
+song_begin: 07 - Ae (Pitiful).mp3
+Time: 129
+Artist: OST
+Title: 哀(애) (Ae) [Pitiful]
+Album: War Of The Arrows OST
+Track: 7/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569332
+song_end
+song_begin: 08 - Gyeor (Decide).mp3
+Time: 92
+Artist: OST
+Title: 決(결) (Gyeor) [Decide]
+Album: War Of The Arrows OST
+Track: 8/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569332
+song_end
+song_begin: 09 - Geug (Climax).mp3
+Time: 138
+Artist: OST
+Title: 極(극) (Geug) [Climax]
+Album: War Of The Arrows OST
+Track: 9/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569333
+song_end
+song_begin: 10 - Hyang (Home).mp3
+Time: 160
+Artist: OST
+Title: 鄕(향) (Hyang) [Home]
+Album: War Of The Arrows OST
+Track: 10/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569334
+song_end
+song_begin: 11 - Yeon (Miss).mp3
+Time: 157
+Artist: OST
+Title: 戀(연) (Yeon) [Miss]
+Album: War Of The Arrows OST
+Track: 11/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569334
+song_end
+song_begin: 12 - Go (Greeting).mp3
+Time: 46
+Artist: OST
+Title: 告(고) (Go) [Greeting]
+Album: War Of The Arrows OST
+Track: 12/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569335
+song_end
+song_begin: 13 - Kim Moo Yeol - Dal Geurimja (Moon Shadow).mp3
+Time: 268
+Artist: Kim Moo Yeol
+Title: 달 그림자 (Dal Geurimja) [Moon Shadow]
+Album: War Of The Arrows OST
+Track: 13/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569336
+song_end
+song_begin: 14 - Dal Geurimja (Moon Shadow) (Instrumental).mp3
+Time: 268
+Artist: OST
+Title: 달 그림자 (Dal Geurimja) [Moon Shadow] (Instrumental)
+Album: War Of The Arrows OST
+Track: 14/14
+Date: 2011
+Genre: KPop
+Disc: 1/1
+mtime: 1361569337
+song_end
+playlist_begin: War Of The Arrows (2011).m3u
+mtime: 1397156307
+playlist_end
+end: War Of The Arrows (2011) (OST) [MP3]
